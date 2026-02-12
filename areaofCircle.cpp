@@ -1,18 +1,19 @@
-// Find the area of circle
+// Find the area of circle (C++ version)
 
-#include<stdio.h>
+#include <iostream>
+using namespace std;
 
 int main() {
     int r;
-    float Area, PI = 3.14;
+    float Area;
+    const float PI = 3.14;
 
-
-    printf("Enter the radius of circle - ");
-    scanf("%d", &r);
+    cout << "Enter the radius of circle - ";
+    cin >> r;
 
     Area = PI * r * r;
 
-    printf("Your answer is - %.2f", Area);
+    cout << "Your answer is - " << Area << endl;
 
     return 0;
 }
