@@ -1,0 +1,30 @@
+/*
+        * 
+        * 
+    * * * * * 
+        *  
+        *
+*/
+
+#include<bits/stdc++.h>
+using namespace std;
+
+int main() {
+    int i, j, n;
+
+    cout << "Enter the number of terms : ";
+    cin >> n;
+
+    for(i=1; i<=n; i++) {
+        for(j=1; j<=n; j++) {
+            if(j==n/2+1 || i==n/2+1) {
+                cout << "* ";
+            } else {
+                    cout << "  ";
+                }
+        }
+        cout << endl;
+    }
+
+    return 0;
+}
