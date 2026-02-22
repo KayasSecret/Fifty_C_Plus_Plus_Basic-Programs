@@ -1,30 +1,24 @@
 /*
-  *         *
-   *       *
-    *     *
-     *   *   
-       * 
-      *  *
-     *    *
-    *      *   
-   *        *   
+  1
+  2 3
+  4 5 6 
+  7 8 9 10
 */
 
 #include<bits/stdc++.h>
 using namespace std;
 
 int main() {
-    int i, j, n, m;
+    int i, j, n;
 
-    cout << "Enter the number of rows : ";
+    cout << "Enter the number of terms : ";
     cin >> n;
 
-    cout << "Enter the number of columns : ";
-    cin >> m;
-
+    int num = 1;
     for(i=1; i<=n; i++) {
-        for(j=1; j<=m; j++) {
-            cout << "* ";
+        for(j=1; j<=i; j++) {
+            cout << num << " ";
+            num++;
         }
         cout << endl;
     }
