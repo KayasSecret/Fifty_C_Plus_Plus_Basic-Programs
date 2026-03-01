@@ -50,7 +50,18 @@ int main() {
         cout << "\nEnter your choice: ";
         cin >> choice;
 
-    }
+        switch (choice) {
+            case 1: push();
+                    break;
+            case 2: pop();
+                    break;
+            case 3: display();
+                    break;
+            case 4: cout << "Exit" << endl;
+                    break;
+            default: cout << "Invalid choice" << endl;
+        }
+    } while (choice != 4);
 
     return 0;
 }
