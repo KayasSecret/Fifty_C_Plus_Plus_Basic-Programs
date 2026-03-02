@@ -10,7 +10,10 @@ int main() {
 
     int arr[n];
 
-    
+    printf("Enter the element of array : ");
+    for(i=0; i<n; i++) {
+        scanf("%d", &arr[i]);
+    }
 
     // sum of all elements 
     for(i=0; i<n; i++) {
