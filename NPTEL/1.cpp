@@ -6,14 +6,14 @@ protected:
     int val;
 public:
     B(int v);
-    virtual ~B();          // LINE-1
+    virtual ~B();       
     int getVal() { return val; }
 };
 
 class D : public B{
 public:
     D(int v);
-    ~D();                  // LINE-2
+    ~D();              
 };
 
 B::B(int v) : val(v){
