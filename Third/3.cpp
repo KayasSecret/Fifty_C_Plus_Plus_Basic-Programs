@@ -15,11 +15,6 @@ int main() {
         scanf("%d", &arr[i]);
     }
 
-    // sum of all elements 
-    for(i=0; i<n; i++) {
-        sum = sum + arr[i];
-    }
-
     printf("This is the array : \n");
     for(i=0; i<n; i++) {
         printf("%d, ", arr[i]);
