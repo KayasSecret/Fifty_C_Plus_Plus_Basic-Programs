@@ -14,7 +14,7 @@
 This repository contains **100 basic C++ programs** built to strengthen programming fundamentals and improve problem-solving skills.
 
 🎯 Goal: Build a strong foundation in C++  
-📚 Level: Beginner → Intermediate  
+📚 Level: Beginner → Intermediate → Hard
 🔥 Focus: Logic Building + DSA Preparation  
 
 > “Consistency beats talent when talent doesn’t work hard.”
