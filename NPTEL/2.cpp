@@ -31,3 +31,14 @@ D::D(int v) : B(v){
 D::~D(){
     cout << getVal() << " ";
 }
+
+int main(){
+    int n;
+    cin >> n;
+
+    D *ptr = new D(n);
+    B *bptr = ptr;
+    delete bptr;
+    
+    return 0;
+}
