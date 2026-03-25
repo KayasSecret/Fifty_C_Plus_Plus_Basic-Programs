@@ -22,7 +22,3 @@ bool isValid(string s) {
     }
     return st.empty();
 }
-
-int main() {
-    cout << isValid("()[]{}"); // 1 (true)
-}
