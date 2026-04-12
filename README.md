@@ -1,81 +1,48 @@
-# 💻🚀 100 Days of C++ – Basic Programs Collection
+# 🚀 DSA Journey in C++ | From Beginner to Advanced  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Language-C++-blue?style=for-the-badge&logo=c%2B%2B">
-  <img src="https://img.shields.io/badge/Programs-100-success?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Level-Beginner_to_Intermediate-orange?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Language-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Focus-DSA-B71C1C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Level-Beginner_to_Advanced-006400?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Daily-Practice-8E24AA?style=for-the-badge"/>
 </p>
 
 ---
 
-## 📌 About This Repository
+## 👨‍💻 About This Repository  
 
-This repository contains **100 basic C++ programs** built to strengthen programming fundamentals and improve problem-solving skills.
-
-🎯 Goal: Build a strong foundation in C++  
-📚 Level: Beginner → Intermediate → Hard
-🔥 Focus: Logic Building + DSA Preparation  
-
-> “Consistency beats talent when talent doesn’t work hard.”
+✨ This repository contains my **daily DSA practice in C++**  
+📈 I am consistently solving problems and improving step by step  
+🎯 Goal: Crack top product-based companies  
 
 ---
 
-## 🧠 Topics Covered
+## 🔥 What You'll Find Here  
 
-- 🔢 Basic Input / Output  
-- ➕ Operators & Expressions  
-- 🔁 Loops (for, while, do-while)  
-- 🔀 Conditional Statements  
-- 📦 Arrays  
-- 🔤 Strings  
-- 🧮 Functions  
-- 🧱 Pattern Programs  
-- 📊 Number Problems  
-- 🧠 Basic Algorithmic Thinking  
+- 🧠 Problem Solving (Easy ➝ Medium ➝ Hard)  
+- 📚 Data Structures & Algorithms Concepts  
+- 💡 Optimized Approaches  
+- 📝 Clean and readable C++ code  
+- ⚡ Daily consistency  |
 
 ---
 
+## 🏆 Goals  
 
-Or use:
-- VS Code  
-- CodeBlocks  
-- Dev C++  
-
----
-
-## 📈 Progress Tracker
-
-| 🚀 Total Programs | ✅ Completed | 🔄 Remaining |
-|-------------------|--------------|--------------|
-| 100               | 50         | 50            |
+- ✅ Build strong DSA foundation  
+- ✅ Solve 500+ problems  
+- 🎯 Crack top tech interviews  
 
 ---
 
-## 🌟 Why This Project?
+## 💻 Tech Stack  
 
-✔ Strengthen C++ fundamentals  
-✔ Improve logical thinking  
-✔ Prepare for coding interviews  
-✔ Build daily coding consistency  
-
-> “First master the basics. Then the basics will make you master.” 💡
-
----
-
-## 👨‍💻 About Me
-
-**Kayas Mishra**  
-📧 Email: kayasmishra29s@gmail.com  
-🎓 MCA Student | Passionate about C++ & DSA  
-🔥 Focused on becoming a strong problem solver  
-
----
-
-## ⭐ Support
-
-If you like this repository, consider giving it a ⭐ on GitHub.  
-It motivates me to build more amazing projects 🚀  
+<p>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-blue?style=flat&logo=visualstudiocode"/>
+  <img src="https://img.shields.io/badge/Git-orange?style=flat&logo=git"/>
+  <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github"/>
+</p>
 
 ---
 
